@@ -1,0 +1,21 @@
+
+# naming
+
+- camelCase for variables and functions: for example
+  myVariable, myFunc
+
+- PascalCase for components:     MyComponent
+
+- kebab-case for file names: my-component.vue. 
+Add prefixes or suffixes to file name if necessary
+
+
+- directory structure
+
+    --assests: images, css, fonts
+    --components: *.vue
+    --router: define router
+    --views: actual pages *.vue
+    --utils : JS scripts, *.js
+
+
